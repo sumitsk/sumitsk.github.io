@@ -1,19 +1,19 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Projects"
+permalink: //
 author_profile: true
 ---
 
 <!-- add projects here -->
 {% include base_path %}
 
-{% for post in site.research reversed %}
+{% for post in site.projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 <!-- <div class="grid__wrapper">
-{% for post in site.research%}
+{% for post in site.projects%}
   {% include archive-single.html %}
 {% endfor %}
 </div> -->
