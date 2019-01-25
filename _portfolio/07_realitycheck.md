@@ -1,6 +1,6 @@
 ---
 title: "A Reality Check of Images"
-excerpt: "Machine Learning Course Project"
+excerpt: "Machine Learning Course Project, IIT Kanpur"
 permalink: /projects/07_realitycheck
 collection: projects
 header:
