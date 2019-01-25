@@ -4,7 +4,7 @@ excerpt: "Course Project"
 permalink: /projects/drl
 collection: projects
 header:
-    teaser: /images/dlr.png
+    teaser: /images/drl.png
 ---
 
 Advisor: Ruslan Salakhutdinov, School of Computer Science, Carnegie Mellon University
