@@ -1,5 +1,6 @@
 ---
 title: "Active Learning with Gaussian Processes for High Throughput Phenotyping"
+excerpt: Robotics Institute, Carnegie Mellon University
 permalink: /projects/aamas
 collection: projects
 ---

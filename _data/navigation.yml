@@ -7,8 +7,8 @@ main:
     url: https://github.com/sumitsk
       
   - title: "CV"
-    url: /cv/
+    url: files/cv_2col.pdf
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
