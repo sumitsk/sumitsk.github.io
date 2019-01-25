@@ -3,6 +3,7 @@ title: "Optimal Path Planning in a Dynamic Environment"
 excerpt: "Course Project"
 permalink: /projects/planning
 collection: projects
+teaser: planning.png
 ---
 
 

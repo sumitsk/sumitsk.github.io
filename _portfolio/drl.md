@@ -3,6 +3,7 @@ title: "Learning Hierarchical Policies in Dynamic Environments"
 excerpt: "Course Project"
 permalink: /projects/drl
 collection: projects
+teaser: /images/dlr.png
 ---
 
 Advisor: Ruslan Salakhutdinov, School of Computer Science, Carnegie Mellon University

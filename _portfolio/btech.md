@@ -3,6 +3,7 @@ title: "Design and Fabrication of a throat surgery holder and retractor"
 excerpt: "B.Tech Project"
 permalink: /projects/btech
 collection: projects
+teaser: /images/btech.png
 ---
 
 

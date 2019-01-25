@@ -3,6 +3,7 @@ title: "Deep Reinforcement Learning for Sparse-Reward Manipulation Problems"
 excerpt: "Course Project"
 permalink: /projects/pher
 collection: projects
+teaser: /images/pher.png
 ---
 
 Advisor: Prof. Matt Mason, School of Computer Science, Carnegie Mellon University
