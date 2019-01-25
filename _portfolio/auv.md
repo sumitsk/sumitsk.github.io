@@ -3,7 +3,8 @@ title: "Autonomous Underwater Vehicle"
 excerpt: "Robotics Club, IIT Kanpur"
 permalink: /projects/planning
 collection: projects
-teaser: /images/varun.jpg
+header:
+    teaser: /images/varun.jpg
 ---
 
 

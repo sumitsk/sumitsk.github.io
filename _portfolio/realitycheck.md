@@ -3,7 +3,8 @@ title: "A Reality Check of Images"
 excerpt: "Course Project"
 permalink: /projects/realitycheck
 collection: projects
-teaser: /images/mlt.jpg
+header:
+    teaser: /images/mlt.jpg
 ---
 
 

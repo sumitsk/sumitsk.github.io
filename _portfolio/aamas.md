@@ -3,7 +3,8 @@ title: "Active Learning with Gaussian Processes for High Throughput Phenotyping"
 excerpt: Robotics Institute, Carnegie Mellon University
 permalink: /projects/aamas
 collection: projects
-teaser: /images/robotanist.jpeg
+header:
+    teaser: /images/robotanist.jpeg
 ---
 
 Advisor: Prof. Katia Sycara, Robotics Institute, CMU

@@ -3,7 +3,8 @@ title: "Abhyast Phase VI"
 excerpt: "BOEING sponsored project, IIT Kanpur"
 permalink: /projects/abhyast
 collection: projects
-teaser: /images/boeing_logo.jpg
+header:
+    teaser: /images/boeing_logo.jpg
 ---
 
 Advisor: Prof. Shantanu Bhattacharya, IIT Kanpur

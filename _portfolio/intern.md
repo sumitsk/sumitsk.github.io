@@ -3,7 +3,8 @@ title: "Estimating Configuration Space Belief from Collision Checks for Motion P
 excerpt: "Internship, Carnegie Mellon University"
 permalink: /projects/intern
 collection: projects
-teaser: /images/herb.jpg
+header:
+    teaser: /images/herb.jpg
 ---
 
 Advisor: Prof. Siddhartha Srinivasa, Personal Robotics Lab, CMU

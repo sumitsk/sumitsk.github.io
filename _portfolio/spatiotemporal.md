@@ -3,7 +3,8 @@ title: "Bayesian Modelling of Spatiotemporal processes"
 excerpt: "Research Project"
 permalink: /projects/spatiotemporal
 collection: projects
-teaser: /images/st.jpg
+header:
+    teaser: /images/st.jpg
 ---
 
 
