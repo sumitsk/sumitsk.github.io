@@ -1,7 +1,7 @@
 ---
 title: "Deep Reinforcement Learning for Sparse-Reward Manipulation Problems"
-excerpt: "Course Project"
-permalink: /projects/pher
+excerpt: "Manipulation Course Project, CMU"
+permalink: /projects/04_pher
 collection: projects
 header:
     teaser: /images/pher.png

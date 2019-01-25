@@ -1,7 +1,7 @@
 ---
 title: "Abhyast Phase VI"
 excerpt: "BOEING sponsored project, IIT Kanpur"
-permalink: /projects/abhyast
+permalink: /projects/06_abhyast
 collection: projects
 header:
     teaser: /images/boeing_logo.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Design and Fabrication of a throat surgery holder and retractor"
-excerpt: "B.Tech Project"
-permalink: /projects/btech
+excerpt: "B.Tech Project, IIT Kanpur"
+permalink: /projects/09_btech
 collection: projects
 header:
     teaser: /images/btech.png

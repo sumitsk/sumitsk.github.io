@@ -1,7 +1,7 @@
 ---
 title: "Learning Hierarchical Policies in Dynamic Environments"
-excerpt: "Course Project"
-permalink: /projects/drl
+excerpt: "Deep Reinforcement Learning Course Project, CMU"
+permalink: /projects/03_drl
 collection: projects
 header:
     teaser: /images/drl.png

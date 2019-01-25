@@ -1,7 +1,7 @@
 ---
 title: "Estimating Configuration Space Belief from Collision Checks for Motion Planning"
-excerpt: "Internship, Carnegie Mellon University"
-permalink: /projects/intern
+excerpt: "Research Internship, CMU"
+permalink: /projects/05_intern
 collection: projects
 header:
     teaser: /images/herb.jpg

@@ -1,7 +1,7 @@
 ---
 title: "A Reality Check of Images"
-excerpt: "Course Project"
-permalink: /projects/realitycheck
+excerpt: "Machine Learning Course Project"
+permalink: /projects/07_realitycheck
 collection: projects
 header:
     teaser: /images/mlt.jpg

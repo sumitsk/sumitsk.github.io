@@ -1,7 +1,7 @@
 ---
 title: "Optimal Path Planning in a Dynamic Environment"
-excerpt: "Course Project"
-permalink: /projects/planning
+excerpt: "Probabilistic Mobile Robotics Course Project, IIT Kanpur"
+permalink: /projects/08_planning
 collection: projects
 header:
     teaser: images/planning.png

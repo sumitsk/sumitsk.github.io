@@ -9,6 +9,6 @@ main:
   - title: "CV"
     url: /files/cv_2col.pdf
 
-  - title: "Publications"
-    url: /#publications
+  # - title: "Publications"
+  #   url: /#publications
 

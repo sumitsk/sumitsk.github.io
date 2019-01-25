@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Modelling of Spatiotemporal processes"
-excerpt: "Research Project"
-permalink: /projects/spatiotemporal
+excerpt: "Research Project, CMU"
+permalink: /projects/02_spatiotemporal
 collection: projects
 header:
     teaser: /images/st.jpg
