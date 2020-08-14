@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sumit Kumar"
-  avatar           : "portrait1.jpg"
-  bio              : "AI Researcher at Carnegie Mellon University"
+  avatar           : 
+  bio              : "Autonomy Engineer at UATC LLC"
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : 
