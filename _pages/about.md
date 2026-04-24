@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-## About Me:
+## About Me
 I am a Staff Tech Lead Manager at <a href="https://aurora.tech">Aurora Innovation</a>, where I lead the Intent Prediction team within the Behavior Planning organization. My team owns the core ML forecasting component that powers Aurora's autonomous vehicles, including architecture decisions, roadmap, and cross-functional alignment across Motion Planning, Perception, Maps, Simulation, and Testing.
 
 Previously, I worked as a Software Engineer at Aurora Innovation (and UATC LLC, which was acquired by Aurora), where I developed GNN-based scene reasoning models for motion planning. I hold a Master of Science in Robotics from <a href="http://ri.cmu.edu">Carnegie Mellon University</a> (advised by Prof. Katia Sycara) and a B.Tech in Mechanical Engineering with a Minor in Artificial Intelligence from <a href="https://iitk.ac.in/">IIT Kanpur</a>. Check out my <a href="/files/resume.pdf">Resume</a> and <a href="https://scholar.google.com/citations?user=19zu0ZwAAAAJ&hl=en">Google Scholar</a> for more details.
 
-## Patents:
+## Patents
 * **Systems and Methods for Interaction-Based Trajectory Prediction** — US Patent No. 11,975,726 (Issued May 2024)
 * **Goal-Based Motion Forecasting** — US Patent No. 11,801,871 (Issued Oct 2023)
 * **Autonomous Vehicle Motion Planning** — US Patent Application No. 63/616,284 (Under Review)
 * **Training Motion Planning with Hybrid Simulation** — US Patent Application No. 19/433,843 (Under Review)
 
-## Publications:
+## Publications
 * Interaction-Based Trajectory Prediction Over a Hybrid Traffic Graph [<a href="https://arxiv.org/abs/2110.13512">Paper</a>]<br>
 **Sumit Kumar**, Yiming Gu, Jerrick Hoang, Galen Clark Haynes, Micol Marchetti-Bowick<br>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)<br>
