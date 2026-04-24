@@ -24,7 +24,7 @@ Previously, I worked as a Software Engineer at Aurora Innovation (and UATC LLC, 
 **Sumit Kumar**, Yiming Gu, Jerrick Hoang, Galen Clark Haynes, Micol Marchetti-Bowick<br>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)<br>
 
-* MAME: Model Agnostic Meta Exploration [<a href="https://proceedings.mlr.press/v100/gurumurthy20a.html">Paper</a>] [<a href="https://github.com/sumitsk/mame">Code</a>]<br>
+* MAME: Model Agnostic Meta Exploration [<a href="https://proceedings.mlr.press/v100/gurumurthy20a.html">Paper</a>] [<a href="https://github.com/swami1995/mame-corl-2019">Code</a>]<br>
 Swaminathan Gurumurthy, **Sumit Kumar**, Katia Sycara<br>
 Conference on Robot Learning (CoRL 2019)<br>
 This paper was selected for an <a href="https://slideslive.com/38917663/learning-exploration-policies-for-metarl?t=0">oral presentation</a> at the <a href="https://www.amtl-workshop.org/schedule">Adaptive and Multitask Learning: Algorithms & Systems Workshop</a> at ICML 2019.<br>
