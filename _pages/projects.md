@@ -13,7 +13,7 @@ author_profile: true
 
 This was my Master's thesis at Carnegie Mellon University. I proposed Recurrent Neural Processes (RNP), a deep latent variable model for spatiotemporal prediction with uncertainty estimation. The model combines the flexibility of neural processes — which learn a distribution over functions from context observations — with recurrent temporal dynamics, enabling predictions over space and time from sparse, irregularly sampled data. RNP captures both epistemic uncertainty (from limited observations) and aleatoric uncertainty (from inherent noise), providing calibrated uncertainty estimates alongside predictions. We evaluated RNP on multiple spatiotemporal benchmarks and demonstrated that it outperforms Gaussian Process-based baselines in both prediction accuracy and uncertainty calibration.
 
-[<a href="/files/root.pdf">Thesis</a>]
+[<a href="https://publications.ri.cmu.edu/storage/publications/2019/08/msr_thesis_document.pdf">Thesis</a>]
 
 ---
 
