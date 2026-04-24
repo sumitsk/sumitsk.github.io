@@ -31,7 +31,7 @@ This paper was selected for an <a href="https://slideslive.com/38917663/learning
 
 * Learning Transferable Cooperative Behavior in Multi-Agent Teams [<a href="https://arxiv.org/abs/1906.01202">Paper</a>] [<a href="https://github.com/sumitsk/marl_transfer">Code</a>]<br>
 Akshat Agarwal\*, **Sumit Kumar**\*, Katia Sycara<br>
-This paper was selected for a <a href="https://slideslive.com/38917600/poster-spotlights-3">spotlight presentation</a> at the <a href="https://graphreason.github.io/">ICML 2019 Workshop on Learning and Reasoning with Graph-Structured Data</a><br>
+This paper was selected for a <a href="https://slideslive.com/38917600/poster-spotlights-3">spotlight presentation</a> at the <a href="https://graphreason.github.io/">Learning and Reasoning with Graph-Structured Data Workshop</a> at ICML 2019<br>
 
 * Active Learning with Gaussian Processes for High Throughput Phenotyping [<a href="https://arxiv.org/abs/1901.06803">Paper</a>] [<a href="https://github.com/sumitsk/algp.git">Code</a>]<br>
 **Sumit Kumar**, Wenhao Luo, George Kantor, Katia Sycara<br>
