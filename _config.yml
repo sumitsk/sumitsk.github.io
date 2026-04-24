@@ -12,7 +12,7 @@ future                   : true
 # Site Author
 author:
   name             : "Sumit Kumar"
-  avatar           :
+  avatar           : "profile.jpg"
   bio              : "Staff Tech Lead Manager at Aurora Innovation"
   location         : "Mountain View, CA"
   email            : "sumit.sks4@gmail.com"
