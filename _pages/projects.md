@@ -5,6 +5,30 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Recurrent Neural Processes for Spatiotemporal Prediction (MS Thesis)
+
+**Advisor: Prof. Katia Sycara, Robotics Institute, CMU**
+
+<img src="/images/st.jpg" alt="Spatiotemporal prediction heatmap" style="max-width: 500px; display: block; margin: 20px auto;">
+
+This was my Master's thesis at Carnegie Mellon University. I proposed Recurrent Neural Processes (RNP), a deep latent variable model for spatiotemporal prediction with uncertainty estimation. The model combines the flexibility of neural processes — which learn a distribution over functions from context observations — with recurrent temporal dynamics, enabling predictions over space and time from sparse, irregularly sampled data. RNP captures both epistemic uncertainty (from limited observations) and aleatoric uncertainty (from inherent noise), providing calibrated uncertainty estimates alongside predictions. We evaluated RNP on multiple spatiotemporal benchmarks and demonstrated that it outperforms Gaussian Process-based baselines in both prediction accuracy and uncertainty calibration.
+
+[<a href="/files/root.pdf">Thesis</a>]
+
+---
+
+## Estimating Configuration Space Belief for Motion Planning
+
+**Advisor: Prof. Siddhartha Srinivasa, Personal Robotics Lab, CMU**
+
+<img src="/images/herb.jpg" alt="HERB robot at Personal Robotics Lab" style="max-width: 500px; display: block; margin: 20px auto;">
+
+During a summer research internship at the Personal Robotics Lab at CMU, I worked on reducing the computational cost of collision detection in high-dimensional robot motion planning. I proposed a probabilistic belief model over the robot's configuration space that leverages results from prior collision checks to predict the collision state of unevaluated configurations. The approach exploits the continuity of configuration space — neighboring points tend to share the same collision state — using kNN methods and topological C-space structure to efficiently identify collision-free configurations. The proposed topological method outperformed traditional kNN approaches by achieving higher accuracy while being computationally efficient, reducing the expected number of collision checks needed during planning.
+
+[<a href="/files/intern.pdf">Paper</a>]
+
+---
+
 ## Learning Hierarchical Policies in Dynamic Environments
 
 **Advisor: Prof. Ruslan Salakhutdinov, School of Computer Science, CMU**
