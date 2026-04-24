@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Code"
-    url: https://github.com/sumitsk
-
   - title: "Resume"
     url: /files/resume.pdf
 
