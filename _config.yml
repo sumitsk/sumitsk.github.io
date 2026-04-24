@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sumit Kumar"
   avatar           : 
-  bio              : "Autonomy Engineer at UATC LLC"
-  location         : "Pittsburgh, PA"
+  bio              : "Staff Tech Lead Manager at Aurora Innovation"
+  location         : "Mountain View, CA"
   employer         :
   googlescholar    : 
   email            : "sumit.sks4@gmail.com" 
@@ -100,14 +100,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "sumit-kumar-112918a1"
+  linkedin         : "sumitsks4"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "sumitsk4s"
+  twitter          :
   vine             :
   weibo            :
   xing             :
