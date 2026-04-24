@@ -35,6 +35,3 @@ International Conference on Machine Learning (ICML 2019) — Spotlight at ICML 2
 * Active Learning with Gaussian Processes for High Throughput Phenotyping [<a href="https://arxiv.org/abs/1901.06803">Paper</a>] [<a href="https://github.com/sumitsk/algp.git">Code</a>]<br>
 **Sumit Kumar**, Wenhao Luo, George Kantor, Katia Sycara<br>
 International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2019)<br>
-
-* Estimating Configuration Space Belief from Collision Checks for Motion Planning [<a href="https://arxiv.org/abs/1901.07646">Paper</a>]<br>
-**Sumit Kumar**, Shushman Choudhary, Siddhartha Srinivasa<br>
