@@ -49,4 +49,4 @@ In multi-goal robotic manipulation tasks, sparse reward signals make learning ex
 
 During a summer research internship at the Personal Robotics Lab at CMU, I worked on reducing the computational cost of collision detection in high-dimensional robot motion planning. I proposed a probabilistic belief model over the robot's configuration space that leverages results from prior collision checks to predict the collision state of unevaluated configurations. The approach exploits the continuity of configuration space — neighboring points tend to share the same collision state — using kNN methods and topological C-space structure to efficiently identify collision-free configurations. The proposed topological method outperformed traditional kNN approaches by achieving higher accuracy while being computationally efficient, reducing the expected number of collision checks needed during planning.
 
-[<a href="/files/intern.pdf">Paper</a>]
+[<a href="https://arxiv.org/pdf/1901.07646">Paper</a>]
