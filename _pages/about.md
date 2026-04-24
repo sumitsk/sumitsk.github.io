@@ -20,11 +20,11 @@ Previously, I worked as a Software Engineer at Aurora Innovation (and UATC LLC, 
 * **Training Motion Planning with Hybrid Simulation** — US Patent Application No. 19/433,843 (Under Review)
 
 ## Publications
-* Interaction-Based Trajectory Prediction Over a Hybrid Traffic Graph [<a href="https://arxiv.org/abs/2110.13512">Paper</a>]<br>
+* Interaction-Based Trajectory Prediction Over a Hybrid Traffic Graph [<a href="https://ieeexplore.ieee.org/document/9636143">Paper</a>]<br>
 **Sumit Kumar**, Yiming Gu, Jerrick Hoang, Galen Clark Haynes, Micol Marchetti-Bowick<br>
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)<br>
 
-* MAME: Model Agnostic Meta Exploration [<a href="https://arxiv.org/abs/1911.13031">Paper</a>] [<a href="https://github.com/sumitsk/mame">Code</a>]<br>
+* MAME: Model Agnostic Meta Exploration [<a href="https://proceedings.mlr.press/v100/gurumurthy20a.html">Paper</a>] [<a href="https://github.com/sumitsk/mame">Code</a>]<br>
 Swaminathan Gurumurthy, **Sumit Kumar**, Katia Sycara<br>
 Conference on Robot Learning (CoRL 2019)<br>
 This paper was selected for an <a href="https://slideslive.com/38917663/learning-exploration-policies-for-metarl?t=0">oral presentation</a> at the <a href="https://www.amtl-workshop.org/schedule">Adaptive and Multitask Learning: Algorithms & Systems Workshop</a> at ICML 2019.<br>
