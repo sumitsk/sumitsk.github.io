@@ -26,7 +26,8 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)<
 
 * MAME: Model Agnostic Meta Exploration [<a href="https://arxiv.org/abs/1911.13031">Paper</a>] [<a href="https://github.com/sumitsk/mame">Code</a>]<br>
 Swaminathan Gurumurthy, **Sumit Kumar**, Katia Sycara<br>
-Conference on Robot Learning (CoRL 2019) — Oral at ICML 2019 Workshop<br>
+Conference on Robot Learning (CoRL 2019)<br>
+Oral at the <a href="https://www.amtl-workshop.org/schedule">Adaptive and Multitask Learning: Algorithms & Systems Workshop</a> at ICML 2019 [<a href="https://slideslive.com/38917663/learning-exploration-policies-for-metarl?t=0">Talk</a>]<br>
 
 * Learning Transferable Cooperative Behavior in Multi-Agent Teams [<a href="https://arxiv.org/abs/1906.01202">Paper</a>] [<a href="https://github.com/sumitsk/marl_transfer">Code</a>]<br>
 Akshat Agarwal\*, **Sumit Kumar**\*, Katia Sycara<br>
