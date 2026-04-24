@@ -11,7 +11,7 @@ redirect_from:
 ## About Me:
 I am a Staff Tech Lead Manager at <a href="https://aurora.tech">Aurora Innovation</a>, where I lead the Intent Prediction team within the Behavior Planning organization. My team owns the core ML forecasting component that powers Aurora's autonomous vehicles, including architecture decisions, roadmap, and cross-functional alignment across Motion Planning, Perception, Maps, Simulation, and Testing.
 
-Previously, I worked as a Software Engineer at Aurora Innovation (and UATC LLC, which was acquired by Aurora), where I developed GNN-based scene reasoning models for motion planning. I hold a Master of Science in Robotics from <a href="http://ri.cmu.edu">Carnegie Mellon University</a> (advised by Prof. Katia Sycara) and a B.Tech in Mechanical Engineering with a Minor in AI from <a href="https://iitk.ac.in/">IIT Kanpur</a>. Check out my <a href="/files/resume.pdf">Resume</a> and <a href="https://scholar.google.com/citations?user=19zu0ZwAAAAJ&hl=en">Google Scholar</a> for more details.
+Previously, I worked as a Software Engineer at Aurora Innovation (and UATC LLC, which was acquired by Aurora), where I developed GNN-based scene reasoning models for motion planning. I hold a Master of Science in Robotics from <a href="http://ri.cmu.edu">Carnegie Mellon University</a> (advised by Prof. Katia Sycara) and a B.Tech in Mechanical Engineering with a Minor in Artificial Intelligence from <a href="https://iitk.ac.in/">IIT Kanpur</a>. Check out my <a href="/files/resume.pdf">Resume</a> and <a href="https://scholar.google.com/citations?user=19zu0ZwAAAAJ&hl=en">Google Scholar</a> for more details.
 
 ## Patents:
 * **Systems and Methods for Interaction-Based Trajectory Prediction** — US Patent No. 11,975,726 (Issued May 2024)
