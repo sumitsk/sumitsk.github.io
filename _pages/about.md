@@ -30,7 +30,7 @@ Conference on Robot Learning (CoRL 2019) — Oral at ICML 2019 Workshop<br>
 
 * Learning Transferable Cooperative Behavior in Multi-Agent Teams [<a href="https://arxiv.org/abs/1906.01202">Paper</a>] [<a href="https://github.com/sumitsk/marl_transfer">Code</a>]<br>
 Akshat Agarwal\*, **Sumit Kumar**\*, Katia Sycara<br>
-International Conference on Machine Learning (ICML 2019) — Spotlight at ICML 2019 Workshop<br>
+Spotlight at the <a href="https://graphreason.github.io/">ICML 2019 Workshop on Learning and Reasoning with Graph-Structured Data</a> [<a href="https://slideslive.com/38917600/poster-spotlights-3">Talk</a>]<br>
 
 * Active Learning with Gaussian Processes for High Throughput Phenotyping [<a href="https://arxiv.org/abs/1901.06803">Paper</a>] [<a href="https://github.com/sumitsk/algp.git">Code</a>]<br>
 **Sumit Kumar**, Wenhao Luo, George Kantor, Katia Sycara<br>
