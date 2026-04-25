@@ -14,8 +14,8 @@ I am a Staff Tech Lead Manager at <a href="https://aurora.tech">Aurora Innovatio
 Previously, I worked as a Software Engineer at Aurora Innovation (and UATC LLC, which was acquired by Aurora), where I developed GNN-based scene reasoning models for motion planning. I hold a Master of Science in Robotics from <a href="http://ri.cmu.edu">Carnegie Mellon University</a> (advised by Prof. Katia Sycara) and a B.Tech in Mechanical Engineering with a Minor in Artificial Intelligence from <a href="https://iitk.ac.in/">IIT Kanpur</a>. Check out my <a href="/files/resume.pdf">Resume</a> and <a href="https://scholar.google.com/citations?user=19zu0ZwAAAAJ&hl=en">Google Scholar</a> for more details.
 
 ## Patents
-* **Systems and Methods for Interaction-Based Trajectory Prediction** — US Patent No. 11,975,726 (Issued May 2024)
-* **Goal-Based Motion Forecasting** — US Patent No. 11,801,871 (Issued Oct 2023)
+* **Systems and Methods for Interaction-Based Trajectory Prediction** — <a href="https://patents.google.com/patent/US11975726B2">US Patent No. 11,975,726</a> (Issued May 2024)
+* **Goal-Based Motion Forecasting** — <a href="https://patents.google.com/patent/US11801871B2">US Patent No. 11,801,871</a> (Issued Oct 2023)
 * **Autonomous Vehicle Motion Planning** — US Patent Application No. 63/616,284 (Under Review)
 * **Training Motion Planning with Hybrid Simulation** — US Patent Application No. 19/433,843 (Under Review)
 
