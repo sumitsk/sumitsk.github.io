@@ -27,11 +27,12 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)<
 * MAME: Model Agnostic Meta Exploration [<a href="https://proceedings.mlr.press/v100/gurumurthy20a.html">Paper</a>] [<a href="https://github.com/swami1995/mame-corl-2019">Code</a>]<br>
 Swaminathan Gurumurthy, **Sumit Kumar**, Katia Sycara<br>
 Conference on Robot Learning (CoRL 2019)<br>
-This paper was selected for an <a href="https://slideslive.com/38917663/learning-exploration-policies-for-metarl?t=0">oral presentation</a> at the <a href="https://www.amtl-workshop.org/schedule">Adaptive and Multitask Learning: Algorithms & Systems Workshop</a> at ICML 2019.<br>
+This paper was initially selected for an <a href="https://slideslive.com/38917663/learning-exploration-policies-for-metarl?t=0">oral presentation</a> at the <a href="https://www.amtl-workshop.org/schedule">Adaptive and Multitask Learning: Algorithms & Systems Workshop</a> at ICML 2019.<br>
 
 * Learning Transferable Cooperative Behavior in Multi-Agent Teams [<a href="https://arxiv.org/abs/1906.01202">Paper</a>] [<a href="https://github.com/sumitsk/marl_transfer">Code</a>]<br>
 Akshat Agarwal\*, **Sumit Kumar**\*, Katia Sycara<br>
-This paper was selected for a <a href="https://slideslive.com/38917600/poster-spotlights-3">spotlight presentation</a> at the <a href="https://graphreason.github.io/">Learning and Reasoning with Graph-Structured Data Workshop</a> at ICML 2019.<br>
+International Conference on Machine Learning (ICML 2019)<br>
+This paper was selected for a <a href="https://slideslive.com/38917600/poster-spotlights-3">spotlight presentation</a> at the <a href="https://graphreason.github.io/">Learning and Reasoning with Graph-Structured Data Workshop</a>.<br>
 
 * Active Learning with Gaussian Processes for High Throughput Phenotyping [<a href="https://arxiv.org/abs/1901.06803">Paper</a>] [<a href="https://github.com/sumitsk/algp.git">Code</a>]<br>
 **Sumit Kumar**, Wenhao Luo, George Kantor, Katia Sycara<br>
