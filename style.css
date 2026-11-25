@@ -1,0 +1,92 @@
+/* One centered 880px column: a bio-and-photo header over ruled sections. */
+:root {
+  --bg: #ffffff;
+  --fg: #1d2127;
+  --muted: #5a626d;
+  --line: #e1e5ea;
+  --link: #1b5fae;
+  --tile: #edf2f8;
+  --tile-fg: #1d4b7f;
+  --img-bg: #ffffff;
+  --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --sans: "Source Sans 3", "Segoe UI", system-ui, -apple-system, sans-serif;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #121417;
+    --fg: #e4e7eb;
+    --muted: #a0a8b2;
+    --line: #2a2f35;
+    --link: #82b6f0;
+    --tile: #1a2330;
+    --tile-fg: #a3c7f0;
+    color-scheme: dark;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 400 17px/1.55 var(--sans); }
+img { max-width: 100%; height: auto; }
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; border-radius: 2px; }
+
+.page { max-width: 880px; margin: 0 auto; padding: 56px 20px 72px; display: grid; gap: 44px; }
+
+/* Header */
+.intro { display: grid; grid-template-columns: minmax(0, 1fr) 200px; gap: 40px; align-items: center; }
+.name { font: 600 2.5rem/1.1 var(--serif); margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+.role { margin: 6px 0 18px; color: var(--muted); }
+.bio p { margin: 0 0 12px; max-width: 64ch; }
+.links { display: flex; flex-wrap: wrap; gap: 4px 0; margin: 16px 0 0; padding: 0; list-style: none; }
+.links li:not(:last-child)::after { content: "/"; color: var(--line); margin: 0 10px; }
+.photo { width: 200px; aspect-ratio: 1; object-fit: cover; border-radius: 50%; }
+
+/* Sections */
+section { display: grid; gap: 18px; }
+h2 { font: 600 1.45rem/1.2 var(--serif); margin: 0; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
+.rows { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+.rows.media { gap: 24px; }
+
+/* Experience and education rows: date column, then role */
+.dated { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 4px 20px; }
+.when { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.94rem; padding-top: 1px; }
+.what b { font-weight: 600; }
+.what span { color: var(--muted); }
+.what p { margin: 2px 0 0; color: var(--muted); font-size: 0.96rem; }
+
+/* Patents: title and number on the left, status on the right */
+.patent { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 20px; }
+.patent b { font-weight: 600; }
+.patent .num { grid-column: 1; color: var(--muted); font-size: 0.95rem; font-variant-numeric: tabular-nums; }
+.patent .status { grid-column: 2; grid-row: 1; color: var(--muted); font-size: 0.95rem; font-style: italic; text-align: right; }
+
+/* Publications and projects: thumbnail or venue tile, then text */
+.item { display: grid; grid-template-columns: 168px minmax(0, 1fr); gap: 22px; align-items: start; }
+.thumb { display: block; width: 168px; aspect-ratio: 16 / 10; object-fit: cover; border-radius: 4px; border: 1px solid var(--line); background: var(--img-bg); }
+.tile { width: 168px; max-width: 100%; aspect-ratio: 16 / 10; border-radius: 4px; background: var(--tile); color: var(--tile-fg); display: grid; place-content: center; text-align: center; }
+.tile b { font: 600 1.5rem/1 var(--serif); letter-spacing: 0.02em; }
+.tile span { margin-top: 4px; font-size: 0.85rem; font-variant-numeric: tabular-nums; }
+.body { min-width: 0; }
+.title { font-weight: 600; }
+.sub { margin: 2px 0 0; color: var(--muted); }
+.sub strong { color: var(--fg); font-weight: 600; }
+.venue { margin: 2px 0 0; font-style: italic; }
+.note { margin: 4px 0 0; color: var(--muted); font-size: 0.95rem; }
+.desc { margin: 4px 0 0; font-size: 0.97rem; }
+.act { margin: 6px 0 0; display: flex; flex-wrap: wrap; gap: 14px; font-size: 0.95rem; }
+
+.foot { padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; }
+
+@media (max-width: 680px) {
+  .page { padding: 36px 16px 56px; gap: 36px; }
+  .intro { grid-template-columns: 1fr; gap: 20px; }
+  .photo { width: 132px; order: -1; }
+  .name { font-size: 2.1rem; }
+  .dated { grid-template-columns: 1fr; gap: 0; }
+  .item { grid-template-columns: 1fr; gap: 10px; }
+  .thumb, .tile { width: 100%; max-width: 360px; }
+}
